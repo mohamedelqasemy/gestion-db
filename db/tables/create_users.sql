@@ -1,0 +1,18 @@
+USE [gestion]
+GO
+
+/****** Création de la table [dbo].[users] ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[users](
+    [id] [int] IDENTITY(1,1) NOT NULL,
+      NOT NULL,
+      NULL,
+PRIMARY KEY CLUSTERED 
+(
+    [id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = , OPTIMIZE_FOR_PRIMARY]
+) ON [PRIMARY]
+GO

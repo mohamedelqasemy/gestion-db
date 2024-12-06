@@ -1,0 +1,16 @@
+USE [gestion]
+GO
+
+/****** Création de la table [dbo].[etudiant] ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[etudiant](
+      NOT NULL,
+      NOT NULL,
+      NOT NULL,
+      NOT N] [date] NOT NU[id_filiere] [iEY CLUSTERED 
+(WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OLLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO

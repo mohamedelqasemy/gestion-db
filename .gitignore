@@ -1,0 +1,10 @@
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers générés
+*.bak
+*.tmp
